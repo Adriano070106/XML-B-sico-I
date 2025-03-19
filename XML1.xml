@@ -1,0 +1,22 @@
+<!--
+Ejercicio 1
+Nombre: Edinson Adriano Espinal Muñoz
+Curso: Lenguaje de Marcas
+Fecha: 16/03/2025
+Ejercicio: Documento XML - Información de Ciudades
+-->
+
+<Ciudades>
+    <Ciudad continente="Asia">
+        <Nombre>Nueva Delhi</Nombre>
+        <País>India</País>
+    </Ciudad>
+    <Ciudad continente="Europa">
+        <Nombre>Lisboa</Nombre>
+        <País>Portugal</País>
+    </Ciudad>
+    <Ciudad continente="África">
+        <Nombre>El Cairo</Nombre>
+        <País>Egipto</País>
+    </Ciudad>
+</Ciudades>
