@@ -5,16 +5,23 @@ Curso: Lenguaje de Marcas
 Fecha: 16/03/2025
 Ejercicio: Documento XML - Información de Ciudades
 -->
+<!-- Documento XML que representa una lista de ciudades con su país y continente -->
 
 <Ciudades>
+    <!-- Cada elemento "Ciudad" representa una ciudad y tiene un atributo "continente" -->
+    
     <Ciudad continente="Asia">
+        <!-- Nombre de la ciudad -->
         <Nombre>Nueva Delhi</Nombre>
+        <!-- País al que pertenece la ciudad -->
         <País>India</País>
     </Ciudad>
+
     <Ciudad continente="Europa">
         <Nombre>Lisboa</Nombre>
         <País>Portugal</País>
     </Ciudad>
+
     <Ciudad continente="África">
         <Nombre>El Cairo</Nombre>
         <País>Egipto</País>

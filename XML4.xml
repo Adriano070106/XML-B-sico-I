@@ -1,0 +1,41 @@
+<!--
+Ejercicio 4
+Nombre: Edinson Adriano Espinal Muñoz
+Curso: Lenguaje de Marcas
+Fecha: 19/03/2025
+Ejercicio: Documento XML - Empleados
+-->
+
+<!-- Documento XML que representa una lista de empleados con su información personal y laboral -->
+
+<Empleados>
+    <!-- Cada elemento "Empleado" representa a un trabajador con su información -->
+    
+    <Empleado>
+        <!-- Nombre y apellido del empleado -->
+        <Nombre>Ana</Nombre>
+        <Apellido>García</Apellido>
+        <!-- Edad del empleado -->
+        <Edad>30</Edad>
+        <!-- Departamento al que pertenece -->
+        <Departamento>Ventas</Departamento>
+        <!-- Cargo que ocupa en la empresa -->
+        <Cargo>Ejecutivo de ventas</Cargo>
+    </Empleado>
+
+    <Empleado>
+        <Nombre>Luis</Nombre>
+        <Apellido>Rodríguez</Apellido>
+        <Edad>45</Edad>
+        <Departamento>Finanzas</Departamento>
+        <Cargo>Analista financiero</Cargo>
+    </Empleado>
+
+    <Empleado>
+        <Nombre>María</Nombre>
+        <Apellido>López</Apellido>
+        <Edad>28</Edad>
+        <Departamento>Marketing</Departamento>
+        <Cargo>Especialista en redes sociales</Cargo>
+    </Empleado>
+</Empleados>

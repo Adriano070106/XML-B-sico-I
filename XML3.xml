@@ -1,0 +1,19 @@
+<!--
+Ejercicio 3
+Nombre: Edinson Adriano Espinal Muñoz
+Curso: Lenguaje de Marcas
+Fecha: 19/03/2025
+Ejercicio: Documento XML - Libros
+-->
+
+<!-- Documento XML que representa una lista de libros con su título, autor y año de publicación -->
+
+<Libros>
+    <!-- Cada elemento "Libro" representa un libro y contiene los atributos título, autor y año -->
+    
+    <Libro titulo="Cien años de soledad" autor="Gabriel García Márquez" año="1967" />
+    
+    <Libro titulo="1984" autor="George Orwell" año="1949" />
+    
+    <Libro titulo="El señor de los anillos" autor="J.R.R. Tolkien" año="1954" />
+</Libros>

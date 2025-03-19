@@ -1,0 +1,42 @@
+<!--
+Ejercicio 2
+Nombre: Edinson Adriano Espinal Muñoz
+Curso: Lenguaje de Marcas
+Fecha: 19/03/2025
+Ejercicio: Documento XML - Hechos históricos
+-->
+
+<!-- Documento XML que representa una lista de hechos históricos con sus fechas -->
+
+<HechosHistoricos>
+    <!-- Cada elemento "Hecho" representa un acontecimiento histórico -->
+    
+    <Hecho>
+        <!-- Descripción del acontecimiento -->
+        <Descripcion>IBM da a conocer el PC.</Descripcion>
+        <!-- Fecha del acontecimiento -->
+        <Fecha>
+            <Día>12</Día>
+            <Mes>8</Mes>
+            <Año>1981</Año>
+        </Fecha>
+    </Hecho>
+
+    <Hecho>
+        <Descripcion>Se funda Google.</Descripcion>
+        <Fecha>
+            <Día>4</Día>
+            <Mes>9</Mes>
+            <Año>1998</Año>
+        </Fecha>
+    </Hecho>
+
+    <Hecho>
+        <Descripcion>Se funda Facebook.</Descripcion>
+        <Fecha>
+            <Día>4</Día>
+            <Mes>2</Mes>
+            <Año>2004</Año> <!-- Se corrigió el error tipográfico en el año -->
+        </Fecha>
+    </Hecho>
+</HechosHistoricos>
